@@ -138,4 +138,8 @@ config.ini
 # AWS
 .aws-sam
 
+# Images
+computer-vision/data/raw/*/*.png
+computer-vision/data/raw/*/*.jpg
+computer-vision/data/raw/*/*.JPG
 
