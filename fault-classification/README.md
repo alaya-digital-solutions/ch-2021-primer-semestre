@@ -18,7 +18,7 @@ El contexto: Los datos son una muestra sintetica de data de mantenimiento de mot
 * Estado2: Desde: Incio de la falla / Hasta: Fallo potencial
 * Estado3: Desde: Fallo potencial/ Hasta: Fallo funcional
 * Estado4: Activo en mal funcionamiento
-Ver imagen:
+Ver imagen en carpeta images/:
 
 ![estados de un activo](https://github.com/alaya-digital-solutions/challenges/blob/main/fault-classification/images/states.png)
 
