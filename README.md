@@ -5,7 +5,7 @@
 
 ### SETUP
 
-Esta parte es opcional, dado que eres libre de usar las librerias que tu quieras, solo dejanos la versión de la librería en algún lado.
+Esta parte es opcional, dado que eres libre de usar las librerias que tu quieras, solo dejanos la versión de la librería en algún requirements.txt de tu trabajo.
 
 ```sh
 $ echo seteo de tu ambiente de trabajo
