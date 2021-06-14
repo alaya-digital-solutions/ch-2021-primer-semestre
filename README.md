@@ -5,6 +5,8 @@
 
 ### SETUP
 
+Esta parte es opcional, dado que eres libre de usar las librerias que tu quieras, solo dejanos la versión de la librería en algún lado.
+
 ```sh
 $ echo seteo de tu ambiente de trabajo
 git clone git@github.com:alaya-digital-solutions/challenges
