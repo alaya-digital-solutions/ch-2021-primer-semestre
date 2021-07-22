@@ -33,7 +33,7 @@ Peguntas que nos interesan saber !
 5. Es escalable la solución para todos los motores? o debes hacer el análisis por motor?
 6. Escribe el código
 7. Es escalable tu solución ¿Que dificultades tuvo el modelamiento? ¿Como harías escalable tu solución? 
-8. ¿Tus resultados son reproducibles en el tiempo?
+
 
 ### QUE ENTREGAR?
 
